@@ -28,6 +28,7 @@ class ItemSelector(BaseEstimator, TransformerMixin):
 #@Tokenize
 def spacy_tokenize(string):
     tokens = list()
+    nlp = xx_ent_wiki_sm.load(disable=['ner'])
     doc = nlp(string)
     for token in doc:
         tokens.append(token)
@@ -46,7 +47,7 @@ def normalize(tokens):
 def tokenize_normalize(string):
     return normalize(spacy_tokenize(string))
 
-
+"""
 db = mysql.connector.connect(host="localhost",
 user="root", password="yourpassword", database="ontology")
 
@@ -79,8 +80,6 @@ validation_labels = validation_data["sensitivity"]
 test_labels = testing_data["sensitivity"]
 
 
-nlp = xx_ent_wiki_sm.load(disable=['ner'])
-
 
 pipeSVM = Pipeline([("word", Pipeline([('selector', ItemSelector(key='words')), 
                                          ('tfidf', CountVectorizer(tokenizer=tokenize_normalize,binary=True))])), 
@@ -108,4 +107,4 @@ pickl = {
     "tree": pipeTree,
     "Logistic": pipeLogis,
 }
-joblib.dump(pickl, open('models.p', "wb"))
+joblib.dump(pickl, open('models.p', "wb"))"""
