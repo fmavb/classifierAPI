@@ -1,0 +1,417 @@
+word,sensitivity
+"Has Tax Liability For Year",1
+genderOfPerson,3
+expertInField,1
+hasBloodTestName,3
+phoneNumberURI,2
+supportGroup-Demographic,1
+numberOfSexualPartners,3
+placeOfWork,1
+employeeStatus,1
+cellmates,1
+geneticMaterial-GenInfo,3
+subordinate,1
+subCultureOfEthnicity,3
+"Street Name Suffix Text",1
+nucleicAcidSequence,3
+basicDataForPerson,2
+salutation,1
+"indirect acquaintance",1
+occasionallyInContactWith,1
+"Programs In",1
+"Voice Mail Number Text",2
+financiallySupportsDuringYear,1
+"Rural Route Number",1
+"Yahoo Chat Display ID",2
+attachedToEMail,2
+"School Homepage Of Person",1
+militaryRank-CountryAndBranchOfService,1
+"Aim Chat Display ID",2
+"Provider Treats Num Patients With Ailment During",3
+headHairLength,3
+spokesmanForIndividual,1
+minorityLanguageHere,1
+preferredEMailAddressText,2
+fosterSons,3
+"Biometric Authentication Via",3
+countyOfAddress,1
+eMailSourceAddress,2
+"Days Work",1
+sexualPartners,3
+"term of office",1
+enrolledAtSchool,1
+"Job (predicate that is functional in its second ar",1
+"Med Status Discharge Clopidogrel",3
+organizationTypeWithFocalActivitiesOfPersonType,1
+"perfusion technique",3
+"Taxable Income During Year",1
+expertRegardingDeviceType,1
+religiousLeaderOf,3
+"flight number",1
+postalCodeOfAddress-NC,1
+passportNumber,2
+visitQualifiesForLipidLoweringMetric,3
+follower,1
+deputyPosition,1
+"Med Status Discharge Beta Blocker",3
+xenograft,3
+approximatePay,1
+personAssociatedWithString,1
+LastName,1
+"Valve Stenosis Severity Asserted",3
+positionOfPersonInOrganizationFromTo,1
+"Address Text NC",1
+"Federal Identifier Number",2
+creditCardAccountNumber,2
+"Phone Number Suffix",1
+conditionTypeRiskFactorForProcedureSubject,3
+trainer,1
+"Diagnostic Procedure Subsumes Diagnosis",3
+"Education In Field Sufficient For Act Type",1
+residentsOfRegion,1
+"net worth",1
+subGeneticInformation,3
+vicePresident,2
+"Characteristic Activity Type Of Person Type Presen",1
+xDimensionOfAilmentConditionDiagnosed,3
+"campaign manager",3
+"Prescribed Type",3
+patientHasHistory,3
+"Has Dissident Status In",3
+wearsClothing,1
+"Subordinate Role Type",1
+"User Display ID For Account",2
+countryOfPerson,1
+"Has Diplomatic Immunity In",1
+Isograft,3
+"Opposed Demographics",3
+subjectOfDiagnosis,3
+chromatids,3
+"State Of Health",3
+"Pci Qualifies For Post Procedure MI Metric",3
+firstName,2
+"religious student",3
+"Workplace Homepage",1
+leader,1
+weather,1
+"Has STSACS Patient ID",3
+"person's favorite color",1
+alternativeMedicalModalityFOS,3
+yDimensionOfAilmentConditionDiagnosed,3
+jobRecruitment,1
+"Literacy Rate",1
+hasHybridSurgicalAndCathEvent,3
+typicalGenderOfOccupationType,3
+"Highest Education Level",1
+president,2
+leftVentricleImpairmentSite,3
+taxResidents,1
+"being intimately acquainted with",3
+"given name",2
+politicalPartyMembers,3
+ethnicOrigin,3
+"Wears Size",1
+"Educational Degrees",1
+"Contraindicated Product",1
+"Fax Number Country Code",1
+sexuallyAttractedToType,3
+divorcedFrom,1
+maidenName,1
+normalWorkHours,1
+foaf:currentProject,1
+"Person Found In Location",1
+eMailTimeStamp,2
+"Visit Has Emergency CABG",3
+"Alter Ego Of Hero",1
+positionOfPersonInOrganization,1
+weather-NWS,1
+"Has The Same SSN",2
+visitWithStentPlacementHasThienopyridinePrescribed,3
+localFaxNumberText,2
+postalCodeBaseText,1
+phoneNumberPhone,2
+attendanceStatus,1
+"total chromosome number",3
+personalWealthOwned,1
+eyeColor,3
+qualification,1
+receivedTrainingAt,1
+"business contact",1
+"Subject Of Medical Procedure Unique",3
+eMailReplyToAddress,2
+hasZodiacSign,1
+protege,1
+"Pci Treats Multiple Lesions",3
+"dating status",3
+"Area Of Anatomical Feature Diagnosed",3
+valveRegurgitationSeverity,3
+"Compatible Blood Types",3
+arrestingOfficer,1
+teacher,1
+hasInternetMailbox,1
+"City Of Address",1
+hasMedicationIndicator,3
+"Phone Number Text NC",2
+"Has Free Time",1
+socialClass,1
+campaignHasOrganization,3
+biologicalSons,3
+countryVisited,1
+geneTypeCodesForPeptideType,3
+frequentlyInContactWith,1
+middleNameInitial,1
+"Occurs During Hospital Visit With Hospital Admit",3
+"years or older",3
+"Has Heritage From Region",3
+"inactive employee",1
+hasBirthDate,3
+"Title Of Person String",1
+interracial,3
+"Native Language",1
+"Type Stores Genetic Info Impermanently",3
+"Considers As Home",1
+"Identifying Data",2
+"Interested In Buying",1
+"Primary Residence Of",1
+"Phone Number Exchange",1
+BiologicalProductFn,3
+personHairColor,3
+ethnicity,3
+facialHairDescription,3
+hasIDOfType,1
+likesBeingPassiveInSexualPracticeType,3
+"Customer ID",2
+geneTypeForTaxon,3
+worksInDepartments,1
+stateOfAddress,1
+"Person Picture",2
+geneticTemplateFrom,3
+faxNumberPrefix,1
+qualifyingResidenceForTaxDeduction,1
+faxNumberSuffix,1
+"Results Should Be Emailed To Address CC",2
+streetAddressText,1
+"Missing Individual",2
+eMailAddressText,2
+hasCreatinineTestValue,3
+procedureIndicatedBySubjectConditionType,3
+streetNumber,1
+geneticSubstrateOf,3
+"Occurs During Hospitalization",3
+biologicalOffspring,3
+"Participating Provider",3
+faxNumber,2
+raininessOfRegion,1
+"Baptized Into Religion",3
+secondaryResidence,1
+hasWeatherQuantity,1
+carriesGeneticInstructionForType,3
+"foster child",1
+"phone number",2
+ambientCondition,1
+eMailSendingTextSlot,2
+userProfile,2
+"Executive Vice President (organizational role pred",2
+eMailSendingDestinationAddressSlot,2
+"Genetically Identical",3
+terminatedEmployeeOf,1
+visuallyAcquaintedWith,1
+childrenForUSTaxPurposes,1
+countryPassportIDIssuedToPerson,1
+occupation,1
+addressText,2
+"Employment Status (binary predicate)",1
+"Date Range For Medication Stop",3
+"Exposed To",1
+"User Display IDs",2
+biologicalFather,3
+relativesForUSTaxPurposes,1
+"domestic partner",3
+voiceMailNumber,2
+"Valve Regurgitation Grade Asserted",3
+"Document ID",2
+"offsite employer",1
+"(RestrictionOnSlotFn BloodVessel conduitAverageInt",3
+"Religion Of Rule",3
+politicalCampaignOf,3
+"vice president",2
+"cell whose genetic information is expressed",3
+"number of chromatids",3
+philosophyOf,3
+coworker,1
+formerSpouse,1
+doGetAccessToLocalEMailOf,2
+"Cloudiness Of Region",1
+familyName,1
+dateOfMedicalProcedure,3
+hasDegreeInField,1
+"Has Office",1
+organTransplanted,3
+"Prescription For Patient",3
+"Diagnosis Site Type",3
+autograft,3
+phoneNumberPart,1
+"sexual position",3
+skinColor,3
+geoPoliticalAffiliation,3
+"Head Of State Of",2
+fosterFather,1
+patientAgeDuringMedicalEvent,3
+teammates,1
+"&lt;______&gt; http://dbpedia.org/ontology/ethnicg",3
+"Anatomical Site Type Of Procedure",3
+resident,1
+relationshipStatus,1
+censusEthnicClassification,3
+"Hair Of Color Type",3
+subjectOfProcedureOnMedicationOfTypeAtTimeOfProced,3
+hasAnamnesisRepresentation,3
+streetNameText,1
+"Street Address Text NC",1
+eMailPrecedence,2
+eMailMessageHasPropContent,2
+dutyStatus,1
+mostRecentPatientRecording,3
+"Medical Event Perfusion Time",3
+specialty,3
+mentor,1
+student,1
+hasDiagnosis,3
+bride,1
+"Gender Of Object",3
+suiteNumber,1
+birthday,1
+"treatment device",3
+"procedure subject",3
+hasReligiousLeaders,3
+professor,1
+"Overlapping People",1
+eMailReceived,2
+medicalEventHasAssociatedData,3
+"Assistant Position",1
+"foster mother",1
+roomNumber,1
+personSocialSecurityNumber,2
+"Phone Number Area Code",1
+patientHasInfectionTypeDuring,3
+"Percent Of Patients Insured By Type",3
+resultsShouldBeEmailedToAddress,2
+"Health Insurance Claim Number",3
+size,1
+hasPoliticalAsylumIn,3
+"Medical Event Has Procedure",3
+"Organism Part Transplanted",3
+"genetic template",3
+hispanicEthnicity,3
+patientInCareEvent,3
+"biological relative",3
+taxIDNumber,2
+medicalEventHadIncisionApproachAndDetail,3
+diameterOfAnatomicalFeatureDiagnosed,3
+allograft,3
+"hiding place",1
+streetOfAddress,1
+poBoxNumber,1
+eMailSubjectHeadingText,2
+participatingPhysicians,3
+"biological grandmother",3
+"Medication Type Risk Factor For Procedure Subject",3
+"primary residence",1
+fieldsOfActivity,1
+worksInIndustry,1
+geneticSubstrate,3
+hasPatients,3
+"treatment for",3
+"Drivers License ID Number",2
+"Travelled From",1
+penpals,1
+boss,1
+designatedSecondaryResidence,1
+formerOccupation,1
+neighbor,1
+"Health Care Service Name String",3
+"Outranks On Scale",1
+"Work Info Homepage",1
+arrestee,1
+apprentice,1
+"Ethnic Groups Here",3
+primaryMedicalSpecialty,3
+"biological grandfather",3
+acquaintances,1
+hasDetail,3
+countryOfAddress,1
+"Intelligence Operative For Government",1
+"location data",1
+educationLevel,1
+maritalStatus,1
+"Travelled To",1
+eMailSendingSourceAddressSlot,2
+girlfriend,3
+religiousTeacherOf,3
+"XYZ Coordinates Of Ailment Condition Diagnosed",3
+residentialRegion-Role,1
+vicePresidentOfCountry,2
+boyfriend,3
+corporateVicePresident,2
+"Z Dimension Of Ailment Condition Diagnosed",3
+gene-GISPhysicalGeneType,3
+zipCodeForLocation,1
+likesBeingActiveInSexualPracticeType,3
+"Has Job Position In",1
+postalCodeOfAddress,1
+firstNameInitial,1
+biologicalMother,3
+"Patient ID For Patient Treated",3
+hipSizeType,3
+"E Mail Destination Address",2
+secondaryMedicalSpecialty,3
+"Computer Of ID",2
+"Activity Type Risk Factor For Procedure Subject",3
+"Windiness Of Region",1
+title,1
+biologicalCousins,3
+providerAMCNumber,3
+"Major Religions",3
+degreeOfConditionSeverityDiagnosed,3
+"Prescription Specifies Treatment Start Time",3
+imageDesired,2
+"basic data",1
+"Street Name Directional Prefix",1
+"Fax Number Area Code",1
+salary,1
+extraFourDigitsOfZip,1
+"Date Range For Medication Start",3
+tertiaryMedicalSpecialty,3
+pseudonym,1
+bodyguard,1
+residesInRegion,1
+widowOf,1
+"Chest Size Type",3
+populationHasGeneticVariation,3
+employer,1
+valveStenosisSeverityWithValve,3
+hasBloodType,3
+hasDiplomaticStatusIn,1
+prescriptionFromPrescriber,3
+"Fax Number Text",1
+"Executive With Citizenship",1
+postalCodeExtension,1
+"Apartment Number",1
+"Biological Siblings",3
+roommates,1
+"Patient Treated Has Hispanic Ethnicity",3
+primaryCauseOfDeathForIndividual,3
+predecessor,1
+volumeOfAnatomicalFeatureDiagnosed,3
+"Has Blood Test Value",3
+"Unit Number",1
+nyhaHeartFailureClassOfCareEventRecipient,3
+"Date Left Jihad",3
+"Sales Territory Of Address",1
+healthInsuranceClaimNumberForPCI,3
+evaluationProducesNormalValuesForTestType,3
+accountDisplayID,2
+eMailSendingSubjectHeadingTextSlot,2
+"Genetic Deletion Of",3
+"Ambient Visibility",1
+"romantic interest",3

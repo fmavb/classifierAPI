@@ -1,0 +1,826 @@
+word,sensitivity
+atLocation,1
+"at location",1
+Name,1
+Gemeindeschlüssel,1
+hasMunicipalityId,1
+"municipality code",1
+"geographische Position",1
+position,1
+"geographic position",1
+language,1
+relation,1
+lifetime,1
+Postleitzahl,1
+hasPostalCode,1
+"postal code",1
+height,3
+isLocationOf,1
+"is location of",1
+"è luogo di",1
+hasLocation,1
+"has location",1
+identifier,2
+eventTimeLocation,1
+"event time and location",1
+location,1
+id,2
+hasLocationSubject,1
+"has location as subject",1
+isLocationSubjectOf,1
+"is location subject of",1
+"Sovereignty Location",1
+region_location,1
+"Region Location",1
+worksFor,1
+WKTgeoRepresentation,1
+"Well-Known Text geographic representation",1
+imageLocation,1
+"image location",1
+workingLife,1
+"working life",1
+hasGlobalLocationNumber,1
+"has Global Location Number (0..1)",1
+taxID,2
+"Tax ID (0..1)",2
+email,2
+technicalLocation,1
+workInfoHomepage,1
+identificationOfIndividual,2
+workplaceHomepage,1
+locationName,1
+identificationMethod,1
+identificationHasLabelImage,2
+physicalLocation,1
+emailAddress,2
+corporateEmailAddress,2
+has_grammaticalGender,3
+grammaticalGender,3
+"work info homepage",1
+gender,3
+"workplace homepage",1
+firstName,1
+lastName,1
+DistanceSourceToPatient,3
+"Distance Source to Patient",3
+"Cardiac Framing Type",3
+"Cardiac Number of Images",3
+PatientEyeMovementCommanded,3
+"Patient Eye Movement Commanded",3
+"Crystal Center Location X",1
+"Crystal Center Location Z",1
+RequestedProcedureLocation,1
+"Requested Procedure Location",1
+"Patient Orientation in Frame Sequence",3
+"Location of Measured Beam Diameter",1
+ActualCardiacTriggerDelayTime,3
+"Actual Cardiac Trigger Delay Time",3
+"Scheduled Study Location",1
+"Scheduled Study Location AE Title",1
+PhysiciansOfRecordIdentificationSequence,3
+"Physician(s) of Record Identification Sequence",3
+"Requesting Physician Identification Sequence",3
+"Requesting Physician",3
+NumberOfPatientRelatedSeries,3
+"Number of Patient Related Series",3
+ScheduledPerformingPhysicianName,3
+"Scheduled Performing Physician's Name",3
+PatientInstitutionResidence,3
+"Patient's Institution Residence",3
+"Refractive Surgery Type Code Sequence",3
+"Referenced Patient Sequence",3
+PatientReligiousPreference,3
+"Patient's Religious Preference",3
+"Body Part Thickness",3
+"Refractive Error Before Refractive Surgery Code Se",3
+ReferringPhysicianIdentificationSequence,3
+"Referring Physician Identification Sequence",3
+PatientSupportID,3
+"Patient Support ID",3
+PerformedLocation,1
+"Performed Location",1
+MemoryAllocation,1
+"Memory Allocation",1
+CardiacSignalSource,3
+"Cardiac Signal Source",3
+FirstALineLocation,1
+"First A-line Location",1
+PatientSetupLabel,3
+"Patient Setup Label",3
+"Referring Physician's Telephone Numbers",3
+"Referring Physician's Name",3
+"Referring Physician's Address",3
+PatientSpeciesDescription,3
+"Patient Species Description",3
+"Nuclear Medicine Series Type",3
+PatientComments,3
+"Patient Comments",3
+PatientName,3
+"Patient's Name",3
+"Axial Length of the Eye",3
+"Ophthalmic Frame Location Sequence",1
+"Patient Eye Movement Command Code Sequence",3
+InterpretationDiagnosisDescription,3
+"Interpretation Diagnosis Description",3
+ZonalMapLocation,1
+"Zonal Map Location",1
+PatientMotionCorrected,3
+"Patient Motion Corrected",3
+PatientSexNeutered,3
+"Patient's Sex Neutered",3
+PatientBirthName,3
+"Patient's Birth Name",3
+"Retrieve Location UID",1
+PatientWeight,3
+"Patient's Weight",3
+"Nominal Cardiac Trigger Time Prior To R-Peak",3
+"Actual Cardiac Trigger Time Prior To R-Peak",3
+"Nominal Cardiac Trigger Delay Time",3
+"Physician(s) Reading Study Identification Sequence",3
+"Name of Physician(s) Reading Study",3
+"Nominal Percentage of Cardiac Phase",3
+"Physician(s) of Record",3
+"Performing Physician Identification Sequence",3
+"Performing Physician's Name",3
+RegionLocationMaxX1,1
+"Region Location Max X1",1
+"Network ID",2
+RegionLocationMaxY1,1
+"Region Location Max Y1",1
+Pre-Medication,3
+"Scheduled Procedure Step Location",1
+"Scheduled Performing Physician Identification Sequ",3
+"Admitting Diagnoses Code Sequence",3
+"Admitting Diagnoses Description",3
+CardiacSynchronization,3
+"Cardiac Synchronization",3
+"Patient Frame of Reference Source",3
+NameOfPhysiciansReadingStudy,3
+"Maximum Memory Allocation",1
+"Anatomic Location Of Examining Instrument Code Seq",1
+"Anatomic Location Of Examining Instrument Descript",1
+"Body Part Examined",3
+PatientID,3
+"Patient ID",3
+OphthalmicFrameLocationSequence,1
+PatientFrameOfReferenceSource,3
+RegionLocationMinY0,1
+"Region Location Min Y0",1
+RegionLocationMinX0,1
+"Region Location Min X0",1
+PatientPrimaryLanguageModifierCodeSequence,3
+"Patient's Primary Language Modifier Code Sequence",3
+PatientTransportArrangements,3
+"Patient Transport Arrangements",3
+SpatialLocationsPreserved,1
+"Spatial Locations Preserved",1
+"Cardiac Synchronization Technique",3
+RegionOfResidence,1
+"Region of Residence",1
+NominalCardiacTriggerDelayTime,3
+PerformedStationGeographicLocationCodeSequence,1
+"Performed Station Geographic Location Code Sequenc",1
+TypeOfPatientID,3
+"Type of Patient ID",3
+OphthalmicPatientClinicalInformationRightEyeSequen,3
+"Ophthalmic Patient Clinical Information Right Eye ",3
+PatientPosition,3
+"Patient Position",3
+"Cardiac R-R Interval Specified",3
+PatientSupportAccessoryCode,3
+"Patient Support Accessory Code",3
+"Cardiac Beat Rejection Technique",3
+CardiacNumberOfImages,3
+ImagePositionPatient,3
+"Image Position (Patient)",3
+PhysiciansReadingStudyIdentificationSequence,3
+OrderEntererLocation,1
+"Order Enterer's Location",1
+AdditionalPatientHistory,3
+"Additional Patient History",3
+PatientClinicalTrialParticipationSequence,3
+"Patient Clinical Trial Participation Sequence",3
+ColumnAngulationPatient,3
+"Column Angulation (Patient)",3
+ScheduledPatientInstitutionResidence,3
+"Scheduled Patient Institution Residence",3
+PatientSupportRotationDirection,3
+"Patient Support Rotation Direction",3
+PatientSex,3
+"Patient's Sex",3
+ScheduledPerformingPhysicianIdentificationSequence,3
+PatientSupportAdjustedAngle,3
+"Patient Support Adjusted Angle",3
+PatientSpeciesCodeSequence,3
+"Patient Species Code Sequence",3
+ReferringPhysicianTelephoneNumbers,3
+"Patient's Primary Language Code Sequence",3
+PatientState,3
+"Patient State",3
+"Boarding Pass ID",2
+"Assigned Location",1
+"Route Segment Location ID Type",1
+"Route Segment End Location ID",1
+"Route Segment Start Location ID",1
+CardiacBeatRejectionTechnique,3
+CardiacCyclePosition,3
+"Cardiac Cycle Position",3
+"Issuer of Patient ID Qualifiers Sequence",3
+"Issuer of Patient ID",3
+"Patient's Birth Time",3
+"Patient's Birth Date",3
+CardiacSynchronizationTechnique,3
+RouteSegmentLocationIDType,1
+"Patient's Insurance Plan Code Sequence",3
+ClinicalTrialSiteID,3
+"Clinical Trial Site ID",3
+InsurancePlanIdentification,2
+"Insurance Plan Identification",2
+PatientOrientationCodeSequence,3
+"Patient Orientation Code Sequence",3
+ClinicalTrialProtocolID,3
+"Clinical Trial Protocol ID",3
+StartCardiacTriggerCountThreshold,3
+"Start Cardiac Trigger Count Threshold",3
+"Number of Patient Related Instances",3
+"Number of Patient Related Studies",3
+RefractiveSurgeryTypeCodeSequence,3
+ScheduledStudyLocation,1
+ResidualSyringeCounts,3
+"Residual Syringe Counts",3
+PatientEyeMovementCommandCodeSequence,3
+"Patient's Mother's Birth Name",3
+"Medical Record Locator",3
+"Image Orientation (Patient)",3
+"Patient Orientation",3
+"Study ID",2
+ShowPatientDemographicsFlag,3
+"Show Patient Demographics Flag",3
+"Study Instance UID",2
+PerformingPhysicianIdentificationSequence,3
+ConfidentialityConstraintOnPatientDataDescription,3
+"Confidentiality Constraint on Patient Data Descrip",3
+"Patient Breed Code Sequence",3
+"Patient Breed Description",3
+PatientSetupSequence,3
+"Patient Setup Sequence",3
+ReconstructionTargetCenterPatient,3
+"Reconstruction Target Center (Patient)",3
+ClinicalTrialTimePointID,3
+"Clinical Trial Time Point ID",3
+MatingFeatureID,3
+"Mating Feature ID",3
+"Interpretation Diagnosis Code Sequence",3
+"Physician Approving Interpretation",3
+DisplaySetPatientOrientation,3
+"Display Set Patient Orientation",3
+"Calcium Scoring Mass Factor Patient",3
+"Seam Line Location",1
+PatientReliabilityIndicator,3
+"Patient Reliability Indicator",3
+"Data Collection Center (Patient)",3
+"Other Patient IDs",3
+"Other Patient Names",3
+"Other Patient IDs Sequence",3
+"Patient's Age",3
+"Patient'Size Code Sequence",3
+"Patient's Size",3
+"Patient's Address",3
+"Patient's Telephone Numbers",3
+"Country of Residence",1
+"Ethnic Group",3
+PreMedication,3
+BodyPartExamined,3
+LocationOfMeasuredBeamDiameter,1
+PersonTelephoneNumbers,2
+RefractiveParametersUsedOnPatientSequence,3
+"Refractive Parameters Used on Patient Sequence",3
+"Ophthalmic Patient Clinical Information Left Eye S",3
+"Scheduled Station Geographic Location Code Sequenc",1
+PatientMotherBirthName,3
+ActualCardiacTriggerTimePriorToRPeak,3
+PatientGantryRelationshipCodeSequence,3
+"Patient Gantry Relationship Code Sequence",3
+DischargeDiagnosisDescription,3
+"Discharge Diagnosis Description",3
+CrystalCenterLocationX,1
+CrystalCenterLocationZ,1
+"Medical Alerts",3
+"Termination Cardiac Trigger Count Threshold",3
+CalciumScoringMassFactorPatient,3
+ReferringPhysicianName,3
+CardiacRRIntervalSpecified,3
+MedicalRecordLocator,3
+CommentsOnPatientPerformanceOfVisualField,3
+"Comments on Patient's Performance of Visual Field",3
+OtherPatientIDsSequence,3
+"Patient Physiological State Code Sequence",3
+"Patient Physiological State Sequence",3
+"Slice Location",1
+"Worklist Label",1
+"Referenced Patient Setup Number",3
+PatientSupportAngle,3
+"Patient Support Angle",3
+InterpretationDiagnosisCodeSequence,3
+ReferencedPatientSequence,3
+MaximumMemoryAllocation,1
+PatientInsurancePlanCodeSequence,3
+PatientOrientationInFrameSequence,3
+AdmittingDiagnosesCodeSequence,3
+ScheduledStudyLocationAETitle,1
+MedicalAlerts,3
+SliceLocation,1
+PatientTelephoneNumbers,3
+"Patient Not Properly Fixated Quantity",3
+BodyPartThickness,3
+PerformingPhysicianName,3
+RefractiveErrorBeforeRefractiveSurgeryCodeSequence,3
+ImageOrientationPatient,3
+PatientPhysiologicalStateCodeSequence,3
+DataCollectionCenterPatient,3
+IssuerOfPatientIDQualifiersSequence,3
+PatientBirthDate,3
+PatientBreedDescription,3
+"Patient Support Angle Tolerance",3
+PatientBreedCodeSequence,3
+CardiacFramingType,3
+PhysiciansOfRecord,3
+WorklistLabel,1
+PatientSize,3
+NominalCardiacTriggerTimePriorToRPeak,3
+PatientAdditionalPosition,3
+"Patient Additional Position",3
+PatientAge,3
+IssuerOfPatientID,3
+"Current Patient Location",1
+PatientIdentityRemoved,3
+"Patient Identity Removed",3
+PatientNotProperlyFixatedQuantity,3
+PhysicianApprovingInterpretation,3
+"Patient Setup Number",3
+AnatomicLocationOfExaminingInstrumentCodeSequenceT,1
+SliceLocationVector,1
+"Slice Location Vector",1
+PatientPhysiologicalStateSequence,3
+PatientPrimaryLanguageCodeSequence,3
+RequestingPhysician,3
+ScheduledProcedureStepLocation,1
+OtherPatientNames,3
+CurrentPatientLocation,1
+PatientSupportAngleTolerance,3
+ReferencedPatientAliasSequence,3
+"Referenced Patient Alias Sequence",3
+PatientSizeCodeSequence,3
+SeamLineLocation,1
+PatientOrientation,3
+NumberOfPatientRelatedStudies,3
+EthnicGroup,3
+"Patient Support Type",3
+NuclearMedicineSeriesType,3
+AssignedLocation,1
+TerminationCardiacTriggerCountThreshold,3
+NumberOfPatientRelatedInstances,3
+ReferringPhysicianAddress,3
+ScheduledStationGeographicLocationCodeSequence,1
+RouteSegmentStartLocationID,1
+ReferencedPatientSetupNumber,3
+PatientAddress,3
+OtherPatientIDs,3
+DischargeDiagnosisCodeSequence,3
+"Discharge Diagnosis Code Sequence",3
+AdmittingDiagnosesDescription,3
+PatientOrientationModifierCodeSequence,3
+"Patient Orientation Modifier Code Sequence",3
+PatientSupportType,3
+RouteSegmentEndLocationID,1
+RequestingPhysicianIdentificationSequence,3
+AnatomicLocationOfExaminingInstrumentDescriptionTr,1
+NominalPercentageOfCardiacPhase,3
+OphthalmicPatientClinicalInformationLeftEyeSequenc,3
+RetrieveLocationUID,1
+PatientBirthTime,3
+PatientSetupNumber,3
+AxialLengthOfTheEye,3
+has_location,1
+has_Location_ID,1
+has_Location_name,1
+has_Current_location,1
+has_location_concept,1
+hasLocationCoordinateSystem,1
+locationAltitude,1
+hasRelatedLocation,1
+depictsFictionalLocation,1
+isLocationRelatedTo,1
+isFictionalLocationDepictedIn,1
+isCreationLocationOf,1
+locationLatitude,1
+locationLongitude,1
+address,1
+legalName,2
+"legal name",2
+"nome legale",2
+hasNameLegalLocal,2
+"has name legal local",2
+hasNameLegal,2
+"has name legal",2
+hasNamePreviousLegal,2
+"has name previous legal",2
+hasAddressNumber,1
+locationId,1
+"location ID",1
+hasAddressNumberWithinBuilding,1
+hasAddressLegal,2
+"has address legal",2
+weight,3
+fullName,1
+identity,2
+relatedLocation,1
+"related location",1
+"legal form code",1
+deliveryLocation,1
+"delivery location",1
+authenticLocation,1
+"authentic location",1
+geographicName,1
+"geographic name",1
+mailingLocation,1
+"mailing location",1
+registration,2
+invoiceLocation,1
+"invoice location",1
+workTranslation,1
+"work translation",1
+legalStatus,1
+"Legal Status",1
+hasRegistrationStatus,1
+"has registration status",1
+hasInitialRegistrationDate,1
+"has initial registration date",1
+"identifiant epsg",2
+hasTotalNewRegistrations,1
+airportLocation,1
+"airport location",1
+"taxiway location",1
+deicingPadLocation,1
+"deicing pad location",1
+registrationNumber,2
+"registration number",2
+identification,2
+sex,3
+collocation,1
+"grammatical gender",3
+work,1
+P53_has_former_or_current_location,1
+"P53 has former or current location",1
+P54_has_current_permanent_location,1
+"P54 has current permanent location",1
+P54i_is_current_permanent_location_of,1
+"P54 is current permanent location of",1
+P55_has_current_location,1
+"P55 has current location",1
+P53i_is_former_or_current_location_of,1
+"P53 is former or current location of",1
+availableLocationProviders,1
+"Available Location Providers",1
+locationMethod,1
+"Location Method",1
+lastKnownLocation,1
+"Last Known Location",1
+locationCostsMoney,1
+"Location Costs Money",1
+supportedLocationProviders,1
+"Supported Location Providers",1
+"Location Timestamp",1
+currentLocation,1
+"Current Location",1
+hasSpatialLocation,1
+hasGenderRequirement,3
+hasEmail,2
+requiresGender,3
+moveEndLocation,1
+"move end location",1
+moveStartLocation,1
+"move start location",1
+ofLocation,1
+"of location",1
+capturesLocation,1
+"move captures location",1
+moveLocation,1
+"move location",1
+registrationDate,1
+"registration date",1
+deregistrationDate,1
+"deregistration date",1
+contentLocation,1
+hasAuthoredEmail,2
+locationOfOriginals,1
+"Location of Originals",1
+identifies,2
+hasRegistrationIdentifier,2
+"has registration identifier",2
+hasPersonalEmail,2
+"has Personal Email",2
+hasWorkEmail,2
+"has Work Email",2
+hasPhoneNumber,2
+hasFindingLocation,1
+"has finding location",1
+diagnosis,3
+diagnosi,3
+documentationLocation,1
+"documentation location",1
+hasArchaeometricDiagnosticSurveyType,3
+"has archaeometric diagnostic survey type",3
+"ha tipo di indagine archeometrica e diagnostica",3
+archivalRecordLocation,1
+"archival record location",1
+derivatedWorkLocation,1
+"derivated work location",1
+hasSexInterpretation,3
+"has sex interpretation",3
+hasBiologicalTaxon,3
+"has biological taxon",3
+"ha tassonomia biologica",3
+acquisitionLocation,1
+"acquisition location",1
+inventoryLocation,1
+"inventory location",1
+"estimated sex",3
+hasCreationLocation,1
+"has creation location",1
+isArchaeometricDiagnosticSurveyTypeOf,3
+"is archaeometric diagnostic survey type of",3
+"è tipo di indagine archeometrica e diagnostica di",3
+isPreviousLocationOf,1
+"is previous location of",1
+hasPreviousLocation,1
+"has previous location",1
+editionLocation,1
+"edition location",1
+preparatoryOrFinalWorkLocation,1
+"preparatory or final work location",1
+isSexInterpretationOf,3
+"is sex interpretation of",3
+preparatoryOrFinalWorkPreviousLocation,1
+"preparatory or final work previous location",1
+isFindingLocationOf,1
+"is finding location of",1
+"is creation location of",1
+locationOf,1
+workingPressure,1
+"working pressure",1
+workingPressureMax,1
+workingPressureMin,1
+locationMap,1
+workingTime,1
+"Working Time",1
+location_Of_Situation,1
+longitude,1
+countyNumber,1
+road,1
+latitude,1
+hasGender,3
+affectedCarriagewayAndLanes,1
+"affected carriage way and lanes",1
+"location name",1
+secondaryLocation,1
+"secondary Location",1
+affectedRoadLength,1
+"affected road length",1
+primaryLocation,1
+"primary Location",1
+specificLocation,1
+"specific location",1
+alertCLocation,1
+linearExtension,1
+"linear extension",1
+"has gender",3
+"has email",2
+person_location,1
+organisation_location,1
+headquarters_location,1
+publishingLocation,1
+publishing_location,1
+spatialLocation,1
+"spatial location",1
+sampleLocation,1
+"sample location",1
+hasTimeIndexedTypedLocation,1
+"has time indexed typed location",1
+isStratigraphicSquareOf,1
+"is stratigraphic square of",1
+"è quadrato di",1
+hasBiologicalTaxonomy,3
+hasLocationType,1
+"has referred location type",1
+isStratigraphicAreaOf,1
+"is stratigraphic area of",1
+"è ambiente di",1
+locationDetails,1
+"location details",1
+isTimeIndexedTypedLocationOf,1
+"is time indexed typed location of",1
+isLocationIn,1
+"is location in",1
+isLocationTypeOf,1
+"is referred location type of",1
+isStratigraphicRoomOf,1
+"is stratigraphic room of",1
+"è settore di",1
+politipo,3
+sublocation,1
+"Held in sublocation",1
+"Electronic location",1
+"Storing or shelving location",1
+subLocationOf,1
+relativeLocationModifier,1
+hasEMailAddress,2
+hasSubLocation,1
+minorityLanguage,1
+"minority language",1
+workingLanguage,1
+"working language",1
+worksOnApplication,1
+"works on Application",1
+worksOnConceptualization,1
+"works on Conceptualization",1
+predefinedType_IfcMedicalDevice,3
+location_IfcExternalReference,1
+workMethod_IfcTaskType,1
+WorkMethod,1
+location_IfcClassification,1
+location_IfcDocumentInformation,1
+location_IfcLibraryInformation,1
+locations_IfcStructuralLoadConfiguration,1
+Locations,1
+telephoneNumbers_IfcTelecomAddress,2
+TelephoneNumbers,2
+workMethod_IfcTask,1
+internalLocation_IfcPostalAddress,1
+InternalLocation,1
+location_IfcPlacement,1
+workingTimes_IfcWorkCalendar,1
+WorkingTimes,1
+placementLocation_IfcGridPlacement,1
+PlacementLocation,1
+predefinedType_IfcMedicalDeviceType,3
+vehicleRegistration,2
+"vehicle registration",2
+GayWifeOf,3
+LegalMotherOf,1
+BiologicalMotherOf,3
+MèreBiologiqueDe,3
+ExGayHusbandOf,3
+LegalFatherOf,1
+BiologicalFatherOf,3
+PèreBiologiqueDe,3
+ExGayWifeOf,3
+BiologicalSonOf,3
+FilsBiologiqueDe,3
+GayHusbandOf,3
+BiologicalDaughterOf,3
+FilleBiologiqueDe,3
+political_division,3
+"related biological specimen",3
+middleName,1
+"location of",1
+identifiant,2
+"legal name (0..1)",2
+"hat Pflegekind",1
+"hat illegitimes Kind",1
+hasIllegitimateChild,1
+"has illegitimate child",1
+hasPhysician,3
+"has physician",3
+"ha medico",3
+"tiene médico",3
+"hat biologischen Elternteil",3
+hasBiologicalParent,3
+"has biological parent",3
+"ha genitore biologico",3
+"tiene padre o madre biológico(a)",3
+"tiene pariente político",3
+"hat biologisches Geschwister",3
+hasBiologicalSibling,3
+"has biological sibling",3
+"ha fratello biologico o sorella biologica",3
+"tiene hermano(a) biológico(a)",3
+isPhysicianOf,3
+"is physician of",3
+"è medico di",3
+"es médico de",3
+"hat biologisches Kind",3
+hasBiologicalChild,3
+"has biological child",3
+"ha figlio(a) biologico(a)",3
+"tiene hijo(a) biológico(a)",3
+"hat illegitimen Elternteil",1
+hasIllegitimateParent,1
+"has illegitimate parent",1
+countryOfRegistration,1
+"country of registration (0..1)",1
+"currentLocation (0..1)",1
+firstRegistration,1
+"firstRegistration (0..1)",1
+mainLocation,1
+"main location (0..*)",1
+addressName,1
+documentLocation,1
+passportID,2
+personGender,3
+addressNumber,1
+"has National Library of Medicine journal title abb",3
+hasNationalLibraryOfMedicineJournalId,3
+"has National Library of Medicine journal identifie",3
+tenderSubmissionLocation,1
+"Tender submission location",1
+hasRegistration,2
+isLocationFor,1
+"is location for",1
+hasRegistrationType,1
+hasReligionSelfDefined,3
+"has religious affilication (self defined)",3
+"religion (autodéclarée)",3
+hasSexualitySelfDeclared,3
+"has sexual orientation (self declared)",3
+"a une orientation sexuelle (autodéclarée)",3
+bloodRelativeOf,3
+"blood relative of",3
+hasEthnicitySelfReported,3
+"has ethnicity (self reported)",3
+"d'ethnicité (autodéclarée)",3
+hasRaceColourSelfDeclared,3
+"has race (self declared)",3
+"est de race (autodéclarée)",3
+hasRaceColour,3
+"has race",3
+"est de race",3
+hasReligion,3
+"has religious affiliation",3
+hasRaceColourSelfReported,3
+"has race or colour self-defined",3
+"a race ou couleur autodéclarée",3
+hasEthnicitySelfDefined,3
+"has ethnicity (self defined)",3
+hasReligionSelfReported,3
+"has religious affiliation (self reported)",3
+hasGenderSelfReported,3
+"has gender (self reported)",3
+hasGenderSelfDeclared,3
+"has gender (self declared)",3
+hasSexuality,3
+"has sexual orientation",3
+"a une orientation sexuelle",3
+hasSexualitySelfReported,3
+"has sexuality self-reported",3
+"a sexualité autodéclarée",3
+hasEthnicity,3
+"has ethnicity",3
+d'ethnicité,3
+alternativeEmail,2
+elemLocation,1
+"Element location",1
+identificatore,2
+hasPatient,3
+"has patient",3
+isPatientIn,3
+"is patient in",3
+featureLocationType,1
+cellularLocation,1
+featureLocation,1
+workflow,1
+hasGeographicalLocation,1
+"has geographical location",1
+hasCertifiedEmail,2
+"has certified email",2
+"ha email",2
+hasLegalName,2
+"has legal name",2
+hasPreviousLegalName,2
+"has previous legal name",2
+hasLegalAddress,2
+"has legal address",2
+hasAlternativeLanguageLegalAddress,2
+"has alternative language legal address",2
+Sexo,3
+politicalParticipant,3
+"Political Organizacion participant",3
+"Organización política participante",3
+hasTaxId,2
+"Tax ID",2
+"Work role",1
+hasSex,3
+"Has Sex",3
+hasRomanticAversion,3
+"has Romantic Aversion",3
+hasSexualAversion,3
+"has Sexual Aversion",3
+hasRomanticPreference,3
+"has Romantic Preference",3
+"Riddell Diffuse Eye Color",3
+hasSexualPreference,3
+"has Sexual Preference",3
+"Riddell General Eye Color",3
+"Riddell Spots Eye Color",3
+"Height Measurement",3
+tradeUnion,3

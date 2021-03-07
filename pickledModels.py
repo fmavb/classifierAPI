@@ -28,7 +28,6 @@ class ItemSelector(BaseEstimator, TransformerMixin):
 #@Tokenize
 def spacy_tokenize(string):
     tokens = list()
-    nlp = xx_ent_wiki_sm.load(disable=['ner'])
     doc = nlp(string)
     for token in doc:
         tokens.append(token)
@@ -47,6 +46,8 @@ def normalize(tokens):
 def tokenize_normalize(string):
     return normalize(spacy_tokenize(string))
 
+
+nlp = xx_ent_wiki_sm.load(disable=['ner'])
 """
 db = mysql.connector.connect(host="localhost",
 user="root", password="yourpassword", database="ontology")
@@ -62,9 +63,16 @@ result = cursor.fetchall()
 
 sql2 = 'SELECT word, sensitivity FROM vocabularyopencyc WHERE sensitivity IS NOT NULL GROUP BY word'
 cursor.execute(sql2)
-result += cursor.fetchall()
+result += cursor.fetchall()"""
 
-words = pd.DataFrame(data=result, columns=("words", "sensitivity"))
+words = pd.read_csv("ontology.csv", header=0)
+words.columns = ["words", "sensitivity"]
+
+opencyc = pd.read_csv("opencyc.csv", header=0)
+opencyc.columns = ["words", "sensitivity"]
+
+words = words.append(opencyc)
+print(words)
 words = words.sample(frac=1, random_state=2)
 
 training = 0.6
@@ -107,4 +115,4 @@ pickl = {
     "tree": pipeTree,
     "Logistic": pipeLogis,
 }
-joblib.dump(pickl, open('models.p', "wb"))"""
+joblib.dump(pickl, open('models.p', "wb"))
