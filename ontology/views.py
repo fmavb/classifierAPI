@@ -21,6 +21,9 @@ def search_vocabulary(request):
                 pipeSVM = OntologyConfig.machineLearning["SVM"]
                 pipeTree = OntologyConfig.machineLearning["Tree"]
                 pipeLogis = OntologyConfig.machineLearning["Logistic"]
+                gaussianVec = OntologyConfig.machineLearning["GaussianVec"]
+                gaussian = OntologyConfig.machineLearning["Gaussian"]
+
                 toDF = []
                 for keyword in keywords:
                     toDF.append([keyword, 0])
@@ -29,6 +32,9 @@ def search_vocabulary(request):
                 predictionSVM = pipeSVM.predict(classify)
                 predictionTree = pipeTree.predict(classify)
                 predictionLogis = pipeLogis.predict(classify)
+
+                vectors = gaussianVec.transform(classify["words"])
+                predictionGauss = gaussian.predict(vectors.toarray())
                 
                 prediction = []
                 
@@ -36,7 +42,8 @@ def search_vocabulary(request):
                     svm = predictionSVM[i]
                     tree = predictionTree[i]
                     logis = predictionLogis[i]
-                    vote = [svm, svm, tree, tree, logis]
+                    gaus = predictionGauss[i]
+                    vote = [svm, svm, svm, tree, tree, tree, logis, logis, gaus]
                     
                     prediction.append(mode(vote))
                     

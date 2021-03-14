@@ -25,8 +25,12 @@ eventTimeLocation,1
 "event time and location",1
 location,1
 id,2
+numberOfMaleParticipants,3
+"number of male participants",3
 hasLocationSubject,1
 "has location as subject",1
+numberOfFemaleParticipants,3
+"number of female participants",3
 isLocationSubjectOf,1
 "is location subject of",1
 "Sovereignty Location",1

@@ -12,6 +12,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LogisticRegression
 import joblib
+from sklearn.naive_bayes import GaussianNB
 
 
 class ItemSelector(BaseEstimator, TransformerMixin):
@@ -72,7 +73,6 @@ opencyc = pd.read_csv("opencyc.csv", header=0)
 opencyc.columns = ["words", "sensitivity"]
 
 words = words.append(opencyc)
-print(words)
 words = words.sample(frac=1, random_state=2)
 
 training = 0.6
@@ -110,9 +110,17 @@ pipeLogis = Pipeline([("word", Pipeline([('selector', ItemSelector(key='words'))
 
 pipeLogis.fit(training_data, train_labels)
 
+vectorizer = CountVectorizer(tokenizer=tokenize_normalize, binary=True)
+trainD = vectorizer.fit_transform(training_data["words"])
+
+gModel = GaussianNB(var_smoothing=0.000000000000000001)
+gModel.fit(trainD.toarray(), train_labels)
+
 pickl = {
     "SVM": pipeSVM,
     "tree": pipeTree,
     "Logistic": pipeLogis,
+    "GaussianVec": vectorizer,
+    "Gaussian": gModel
 }
 joblib.dump(pickl, open('models.p', "wb"))
